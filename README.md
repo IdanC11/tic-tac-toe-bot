@@ -20,7 +20,7 @@ The following dependencies are required to run the Tic-Tac-Toe game:
 ## Usage
 ### Clone the repository in shell:
 
-git clone https://github.com/IdanC11/tic-tac-toe.git
+git clone https://github.com/IdanC11/tic-tac-toe-bot
 
 cd tic-tac-toe
 
